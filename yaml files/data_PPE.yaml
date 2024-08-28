@@ -1,0 +1,9 @@
+train: "D:/Machine Learning/Datasets/Syook_Dataset/datasets/datasets/Train Test Data/PPE_data/images/train"
+val: "D:/Machine Learning/Datasets/Syook_Dataset/datasets/datasets/Train Test Data/PPE_data/images/val"
+
+nc: 7  # Number of classes
+
+names: [
+    "hard-hat", "gloves", "glasses", "boots",
+    "vest", "ppe-suit", "ear-protector"
+]

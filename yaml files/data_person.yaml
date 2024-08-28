@@ -1,0 +1,6 @@
+train: "D:/Machine Learning/Datasets/Syook_Dataset/datasets/datasets/Train Test Data/person_data/images/train"
+val: "D:/Machine Learning/Datasets/Syook_Dataset/datasets/datasets/Train Test Data/person_data/images/val"
+
+nc: 1  # Number of classes
+
+names: ['Person']
